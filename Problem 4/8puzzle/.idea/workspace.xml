@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="376f6d31-d31e-48af-968d-9da16fd33bef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../PRACTICE QUIZ/Week 3/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PRACTICE QUIZ/Week 3/.idea/dictionaries/wayne.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PRACTICE QUIZ/Week 3/.idea/libraries/algs4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PRACTICE QUIZ/Week 3/.idea/saveactions_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PRACTICE QUIZ/Week 3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PRACTICE QUIZ/Week 3/src/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PRACTICE QUIZ/Week 4/Priority Queues/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PRACTICE QUIZ/Week 4/Priority Queues/src/Dynamicmedian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PRACTICE QUIZ/Week 4/Priority Queues/src/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PRACTICE QUIZ/Week 4/Priority Queues/src/MaxPQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/wayne.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/custom.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goal.txt" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.22.0" />
+      </map>
+    </option>
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1838629351">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="2" />
+          <entry key="custom" value="2" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="30" />
+          <entry key="png" value="1" />
+          <entry key="txt" value="146" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="Image" value="1" />
+          <entry key="JAVA" value="30" />
+          <entry key="PLAIN_TEXT" value="148" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="custom" value="7" />
+          <entry key="java" value="5225" />
+          <entry key="txt" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="5225" />
+          <entry key="PLAIN_TEXT" value="14" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Solver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="30" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <analyzeAfterCompile>true</analyzeAfterCompile>
+    <toolWindowToFront>false</toolWindowToFront>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/custom" />
+        <option value="$PROJECT_DIR$/goal.txt" />
+        <option value="$PROJECT_DIR$/Board.java" />
+        <option value="$PROJECT_DIR$/Solver.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1" />
+    <option name="y" value="-1" />
+    <option name="width" value="1368" />
+    <option name="height" value="770" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Checkstyle</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="8puzzle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="8puzzle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="8puzzle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="8puzzle" type="462c0819:PsiDirectoryNode" />
+              <item name=".lift" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="8puzzle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="8puzzle" type="462c0819:PsiDirectoryNode" />
+              <item name=".lift" type="462c0819:PsiDirectoryNode" />
+              <item name="algs4.jar" type="ab9368bb:PsiFileNode" />
+            </path>
+            <path>
+              <item name="8puzzle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="8puzzle" type="462c0819:PsiDirectoryNode" />
+              <item name=".lift" type="462c0819:PsiDirectoryNode" />
+              <item name="algs4.jar" type="ab9368bb:PsiFileNode" />
+              <item name="algs4" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Solver">
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="Board" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Board" />
+      <module name="8puzzle" />
+      <option name="PROGRAM_PARAMETERS" value="puzzle2x2-01.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solver" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Solver" />
+      <module name="8puzzle" />
+      <option name="PROGRAM_PARAMETERS" value="puzzle23.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Board" />
+      <item itemvalue="Application.Solver" />
+    </list>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="-1" width="1368" height="770" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info id="Designer" order="1" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.15797317" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49707174" weight="0.44427" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50372577" side_tool="true" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.32967034" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="3" sideWeight="0.49925485" weight="0.32810047" />
+      <window_info anchor="bottom" id="CheckStyle" order="4" sideWeight="0.60059613" weight="0.32810047" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.4962742" weight="0.0" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.09733124" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49850968" weight="0.053375196" />
+      <window_info anchor="right" id="Palette&#9;" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info id="Designer" order="1" />
+      <window_info content_ui="combo" id="Project" order="2" weight="0.1490313" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49707174" weight="0.44427" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50073206" side_tool="true" weight="0.32980332" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.32967034" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="3" sideWeight="0.49925485" weight="0.32810047" />
+      <window_info anchor="bottom" id="CheckStyle" order="4" sideWeight="0.60059613" weight="0.32810047" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" sideWeight="0.49926794" visible="true" weight="0.13971743" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.40345368" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49850968" weight="0.32810047" />
+      <window_info anchor="right" id="Palette&#9;" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/puzzle2x2-unsolvable2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle02.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle3x3-00.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle3x3-02.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle2x2-unsolvable1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle3x3-03.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle3x3-04.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="1" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle3x3-06.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle3x3-07.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle3x3-08.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle3x3-10.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle3x3-11.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle3x3-09.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle2x2-03.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle2x2-04.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle2x2-05.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle2x2-06.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle3x3-12.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle3x3-13.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle3x3-14.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle3x3-15.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle39.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goal.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle33.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle00.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/.lift/algs4.jar!/edu/princeton/cs/algs4/MinPQ.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-165">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-10-oracle/lib/src.zip!/java.base/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="1346" column="7" selection-start-line="1345" selection-end-line="1348" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle01.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms, Part I.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle2x2-00.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/.lift/algs4.jar!/edu/princeton/cs/algs4/Stack.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle24.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle46.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle13.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PuzzleChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="605">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle04.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle2x2-02.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle2x2-01.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle18.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle3x3-unsolvable2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="8" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle09.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle07.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="163" selection-start-line="163" selection-end-line="163" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle25.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle26.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle27.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle30.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle35.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle23.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>algs4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>algs4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

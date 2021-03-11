@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Deques/Deques.iml" filepath="$PROJECT_DIR$/Deques/Deques.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Extra/Extra.iml" filepath="$PROJECT_DIR$/Extra/Extra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem 2.iml" filepath="$PROJECT_DIR$/Problem 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QU2Stack/QU2Stack.iml" filepath="$PROJECT_DIR$/QU2Stack/QU2Stack.iml" />
+    </modules>
+  </component>
+</project>
